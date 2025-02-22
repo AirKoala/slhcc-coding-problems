@@ -5,6 +5,6 @@ data = ["Dylan", "Tilly", "Dani"]
 
 def main():
     for d in data:
-        print(data)
+        print(d)
     
 main()
